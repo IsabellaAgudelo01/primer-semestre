@@ -1,0 +1,8 @@
+print("Agrega un número")
+a = float(input())
+b = float(input())
+print ("La suma es ",a+b)
+print ("La resta es ",a-b)
+print ("La multiplicación es ",a*b)
+print ("La división es ",a/b)
+print("El residuo de la división de ",a,"y ",b, "es ",(a%b))
